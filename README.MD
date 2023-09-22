@@ -94,11 +94,11 @@ An example of `config.env` file:
 ```py
 API_ID=12345
 API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
+BOT_TOKEN=6689735363:AAEeNlKC1K3J7jIgwOcC8dQ1NSoes6zm6kE
 BIN_CHANNEL=-100
 PORT=8080
 FQDN=your_server_ip
-OWNER_ID=your_user_id
+OWNER_ID=-1001676743280
 DATABASE_URL=mongodb_uri
 ```
   </details>
@@ -116,9 +116,9 @@ DATABASE_URL=mongodb_uri
 
 `BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
   
-`OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember ? it just go to settings!
+`OWNER_USERNAME` : @sandy_ollssen
 
-`OWNER_ID` : Your Telegram User ID
+`OWNER_ID` : -1001676743280
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
